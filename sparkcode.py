@@ -28,7 +28,3 @@ def process_world_json_data(file_path):
     res.show()
     res.printSchema()
 
-# Call the function with the file path
-file_path = "C:\\biddata\\drivers\\world_bank.json"
-process_world_json_data(file_path)
-
